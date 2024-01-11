@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8314a06d15ed2624099374f8422d080b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attackSound: {instanceID: 0}
+  - shootSound: {instanceID: 0}
+  - hurtSound: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - soundMaker: {fileID: 253721223300139784, guid: 37fb889626ac4324184a335ebf3a7236, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
