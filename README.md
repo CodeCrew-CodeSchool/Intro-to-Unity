@@ -7,15 +7,15 @@
 ### Slideshow
 
 ### Workshop
-- Editor
-- Package
+- Intro to the Editor
+- Intro to the CC2DGamePackage
 - Choose a Scenario (Top Down or SideScroller)
 - Create a Character
-- Move Character
-- Camera
-- Action (ranged or melee)
-- Enemies
-- Health
-- Animations
-- Audio
+- Character Movement
+- Update your Camera
+- Implement Action (ranged or melee)
+- Create Enemies
+- Implement Health and Damage System
+- Animate Player and Enemy Characters
+- Add Music and Sound Effects
 - Publishing to Web
